@@ -3,7 +3,7 @@ Using Mask R-CNN to create bounding boxes and segmentation masks for each instan
 
 
 ## Requirements
-TensorFlow 2.14, Keras 2.14, and other common packages listed in 'requirements.txt'
+TensorFlow 2.14, Keras 2.14, and other common packages listed in `requirements.txt`
 
 ### MS COCO Requirements:
 To train or test on MS COCO, you'll also need:
