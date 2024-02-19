@@ -8,5 +8,5 @@ TensorFlow 2.14, Keras 2.14, and other common packages listed in 'requirements.t
 ### MS COCO Requirements:
 To train or test on MS COCO, you'll also need:
 * pycocotools (installation instructions below)
-* Download training and validation image subsets along with their annotations [MS COCO Dataset](http://cocodataset.org/#home)
+* Download 2017 training and validation image subsets along with their annotations [MS COCO Dataset](http://cocodataset.org/#home)
 
