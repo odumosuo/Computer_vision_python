@@ -45,7 +45,7 @@ The model was tested using 'random' images gotten from google. For the purpose o
 ## Prokects Using this Model 
 
 ### [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) by Karol Majek.
-[4K Video Demo](https://github.com/odumosuo/Computer_vision_python/blob/main/assets/4k_video.gif?raw=true)
+![4K Video Demo](https://github.com/odumosuo/Computer_vision_python/blob/main/assets/4k_video.gif?raw=true)
 
 ### [Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). A blog post explaining how to train this model from scratch and use it to implement a color splash effect.
 ![balloon_color_splash](https://github.com/odumosuo/Computer_vision_python/assets/111093025/4798539b-de57-4176-affd-44add2067aeb)
