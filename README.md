@@ -11,6 +11,10 @@ Install dependencies
    ```
 ### MS COCO Requirements:
 To train or test on MS COCO, you'll also need:
-* pycocotools (installation instructions below)
+* pycocotools - Install `pycocotools` from one of these repos. They are forks of the original pycocotools with fixes for Python3 and Windows (the official repo doesn't seem to be active anymore).
+
+    * Linux: https://github.com/waleedka/coco
+    * Windows: https://github.com/philferriere/cocoapi.
+    You must have the Visual C++ 2015 build tools on your path (see the repo for additional details)
 * Download 2017 training and validation image subsets along with their annotations [MS COCO Dataset](http://cocodataset.org/#home)
 
