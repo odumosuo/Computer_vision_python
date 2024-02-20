@@ -31,6 +31,9 @@ To train or test on MS COCO, you'll also need:
 * Download 2017 training and validation image subsets along with their annotations [MS COCO Dataset](http://cocodataset.org/#home)
 * Pre-trained COCO weights (mask_rcnn_coco.h5) from the [releases page](https://github.com/matterport/Mask_RCNN/releases).
 
+## How to Run
+Follow the instructions in the multi-line docstring at the begining of the code in `coco_custom_model.py`
+
 ## Testing model
 `model_testing.ipynb` This notebook contains the evaluation of the model. 
 
