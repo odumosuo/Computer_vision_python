@@ -5,7 +5,7 @@ The code uses Mask R-CNN for detecting images in the MS COCO dataset
 
 Usage:  Follow instruction in read me 
         Change directories on line 27, 35, 38, and 40 to root directory of project, name of pretrained weights file in root directory, name of folder to hold models, and directory of images respectively. 
-        run python3 custom.py
+        run python3 coco_custom_model.py
        
 Author: Segun Odumosu
 """
