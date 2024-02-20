@@ -45,7 +45,7 @@ The model was tested using 'random' images gotten from google. For the purpose o
 
 ![dog_on_skateboard](https://github.com/odumosuo/Computer_vision_python/assets/111093025/42563f0c-41e0-4cfd-a389-136f33de11e6)
 
-## Prokects Using this Model 
+## Example Projects Using this Mask R-CNN 
 
 ### [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) by Karol Majek.
 ![4K Video Demo](https://github.com/odumosuo/Computer_vision_python/blob/main/assets/4k_video.gif?raw=true)
