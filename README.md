@@ -45,12 +45,13 @@ The model was tested using 'random' images gotten from google. For the purpose o
 ## Prokects Using this Model 
 
 ### [4K Video Demo](https://www.youtube.com/watch?v=OOT3UIXZztE) by Karol Majek.
-![Mask RCNN on 4K Video](assets/4k_video.gif)](https://www.youtube.com/watch?v=OOT3UIXZztE)
+
 
 ### [Splash of Color](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46). A blog post explaining how to train this model from scratch and use it to implement a color splash effect.
-![Balloon Color Splash](assets/balloon_color_splash.gif)
+![balloon_color_splash](https://github.com/odumosuo/Computer_vision_python/assets/111093025/4798539b-de57-4176-affd-44add2067aeb)
+
 
 ### [Segmenting Nuclei in Microscopy Images](samples/nucleus). Built for the [2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
 Code is in the `samples/nucleus` directory.
 
-![Nucleus Segmentation](assets/nucleus_segmentation.png)
+![nucleus_segmentation](https://github.com/odumosuo/Computer_vision_python/assets/111093025/26111abc-56dd-4f74-bb01-b9d2b9d1668f)
