@@ -5,7 +5,7 @@
 
 **Instance Segmentation**: After identifying the objects and their locations, Mask R-CNN generates pixel-level masks for each object, which precisely outline the shape of the object in the image **Mask Generation**
 
-**How It Works**: Mask R-CNN breaks down the image into smaller regions, then analyzes each region to determine if it contains an object and, if so, what type of object it is and where it is located. It uses a combination of convolutional neural networks (CNNs) and a region proposal network (RPN) to accomplish this task.
+   **How It Works**: Mask R-CNN breaks down the image into smaller regions, then analyzes each region to determine if it contains an object and, if so, what type of object it is and where it is located. It uses a combination of convolutional neural networks (CNNs) and a region proposal network (RPN) to accomplish this task.
 
 
 
